@@ -1,17 +1,17 @@
-# QuantumLab - Python Dependencies
-# Quantum Computing Framework
-qiskit
-qiskit-aer
+# # QuantumLab - Python Dependencies
+# # Quantum Computing Framework
+# qiskit
+# qiskit-aer
 
-# Scientific Computing
-numpy
-matplotlib
+# # Scientific Computing
+# numpy
+# matplotlib
 
-# Jupyter Notebook Environment
-jupyter
-jupyterlab
-ipykernel
+# # Jupyter Notebook Environment
+# jupyter
+# jupyterlab
+# ipykernel
 
-# Optional: Weitere nützliche Pakete
-# scipy>=1.14.0,<2.0.0
-# pandas>=2.2.0,<3.0.0
+# # Optional: Weitere nützliche Pakete
+# # scipy>=1.14.0,<2.0.0
+# # pandas>=2.2.0,<3.0.0
