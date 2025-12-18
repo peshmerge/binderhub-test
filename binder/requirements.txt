@@ -1,7 +1,7 @@
 # QuantumLab - Python Dependencies
 # Quantum Computing Framework
-# qiskit==2.2.3
-# qiskit-aer==0.17.0
+qiskit
+qiskit-aer
 
 # Scientific Computing
 numpy

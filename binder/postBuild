@@ -2,9 +2,9 @@
 set -euxo pipefail
 
 python -m pip install --upgrade pip setuptools wheel
-python -m pip install qiskit==2.2.3
+# python -m pip install qiskit
 
-python -m pip install qiskit-aer==0.17.0
+# python -m pip install qiskit-aer
 
 # Installiere Jupyter Kernel für Qiskit
 python -m ipykernel install --user --name=qiskit --display-name="Python (qiskit)"
